@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@100;200;300;400;500;600;700;800&display=swap');
+
+.yourResult{
+    background-image: linear-gradient( to bottom,
+        hsl(252, 100%, 67%), hsl(241, 81%, 54%)
+    );
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    border-radius: 25px;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+    height: 500px; 
+    border-radius: 25px;
+    box-shadow: 0 5px 10px rgb(224, 224, 224);
+}
+
+button{
+    width: 200px;
+}
+
+.sumary{
+    margin-left: 400px;
+}
+
+.title{
+    margin-top: 25px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(209, 209, 209);
+}
+
+
+.circle{
+    background-image: linear-gradient(
+        to top, hsla(241, 72%, 46%, 0),hsla(256, 72%, 46%, 1)
+    );
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0;
+    margin-left: 20%;
+}
+
+.number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 65px;
+    color: white;
+    margin: 0;
+    margin-top: 30px;
+}
+
+.circleText{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 500;
+    color:  rgb(168, 168, 168);
+    margin: 0;
+    padding-left: 75px;
+}
+
+.great{
+    color: white;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.yrText{
+    color: white;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 15px;
+
+
+}
+
+.sumTitle{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 23px;
+    font-weight: 800;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.reaction{
+    font-family: 'Hanken Grotesk', sans-serif;
+    display: flex; 
+    align-items: center;
+    background-color: hsl(0, 100%, 94%);
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 30px;
+    
+}
+
+.memory{
+    font-family: 'Hanken Grotesk', sans-serif;
+    display: flex;
+    align-items: center;
+    background-color: hsl(0, 100%, 94%);
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.verbal{
+    font-family: 'Hanken Grotesk', sans-serif;
+    display: flex;
+    align-items: center;
+    background-color: hsl(0, 100%, 94%);
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.visual{
+    font-family: 'Hanken Grotesk', sans-serif;
+    display: flex;
+    align-items: center;
+    background-color: hsl(0, 100%, 94%);
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+button{
+    margin-top: 45px;
+    margin
+}
